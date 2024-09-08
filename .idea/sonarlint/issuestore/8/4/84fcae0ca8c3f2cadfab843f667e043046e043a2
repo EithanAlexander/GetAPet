@@ -1,0 +1,4 @@
+
+Ÿ	java:S116"]Rename this field "IMAGES_FOLDER_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÍĞı8ÜŸ¯Üü1J$d480e6a0-be54-4143-b7b0-4f3ce2df98d4
+–
+java:S4042*"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ8Ñ¸Ä”ú1J$4cc1e558-ee3c-4d44-8eb7-e8b04a6b3378
